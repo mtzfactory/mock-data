@@ -85,34 +85,40 @@
               "dev_out_total": 0,
               "quality": "yellow"
             },
-            { "id": 1011, "name": "Diameter", "dev": 0, "dev_out_total": 0 },
+            {
+              "id": 1011,
+              "name": "Diameter",
+              "dev": 0,
+              "dev_out_total": 0,
+              "quality": "red"
+            },
             {
               "id": 1012,
               "name": "X",
               "dev": 0,
               "dev_out_total": 0,
-              "quality": "red"
+              "quality": "green"
             },
             {
               "id": 1013,
               "name": "Y",
               "dev": 0,
               "dev_out_total": 0,
-              "quality": "green"
+              "quality": "yellow"
             },
             {
               "id": 1014,
               "name": "Z",
               "dev": 0,
               "dev_out_total": 0,
-              "quality": "yellow"
+              "quality": "red"
             },
             {
               "id": 1015,
               "name": "Diameter",
               "dev": 0,
               "dev_out_total": 0,
-              "quality": "red"
+              "quality": "ren"
             }
           ],
           "quality": "green"
