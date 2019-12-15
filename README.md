@@ -1,2 +1,4 @@
-# mock-data
-Mock data to use in testing
+# Mock data
+Mock data to use in testing.
+
+https://my-json-server.typicode.com/
