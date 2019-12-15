@@ -8,22 +8,112 @@
           "id": 10,
           "name": "Feat A-1",
           "control": [
-            { "id": 1000, "name": "X", "dev": 0, "dev_out_total": 0 },
-            { "id": 1001, "name": "Y", "dev": 0, "dev_out_total": 0 },
-            { "id": 1002, "name": "Z", "dev": 0, "dev_out_total": 0 },
-            { "id": 1003, "name": "Diameter", "dev": 0, "dev_out_total": 0 },
-            { "id": 1004, "name": "X", "dev": 0, "dev_out_total": 0 },
-            { "id": 1005, "name": "Y", "dev": 0, "dev_out_total": 0 },
-            { "id": 1006, "name": "Z", "dev": 0, "dev_out_total": 0 },
-            { "id": 1007, "name": "Diameter", "dev": 0, "dev_out_total": 0 },
-            { "id": 1008, "name": "X", "dev": 0, "dev_out_total": 0 },
-            { "id": 1009, "name": "Y", "dev": 0, "dev_out_total": 0 },
-            { "id": 1010, "name": "Z", "dev": 0, "dev_out_total": 0 },
+            {
+              "id": 1000,
+              "name": "X",
+              "dev": 0,
+              "dev_out_total": 0,
+              "quality": "green"
+            },
+            {
+              "id": 1001,
+              "name": "Y",
+              "dev": 0,
+              "dev_out_total": 0,
+              "quality": "yellow"
+            },
+            {
+              "id": 1002,
+              "name": "Z",
+              "dev": 0,
+              "dev_out_total": 0,
+              "quality": "red"
+            },
+            {
+              "id": 1003,
+              "name": "Diameter",
+              "dev": 0,
+              "dev_out_total": 0,
+              "quality": "green"
+            },
+            {
+              "id": 1004,
+              "name": "X",
+              "dev": 0,
+              "dev_out_total": 0,
+              "quality": "yellow"
+            },
+            {
+              "id": 1005,
+              "name": "Y",
+              "dev": 0,
+              "dev_out_total": 0,
+              "quality": "red"
+            },
+            {
+              "id": 1006,
+              "name": "Z",
+              "dev": 0,
+              "dev_out_total": 0,
+              "quality": "green"
+            },
+            {
+              "id": 1007,
+              "name": "Diameter",
+              "dev": 0,
+              "dev_out_total": 0,
+              "quality": "yellow"
+            },
+            {
+              "id": 1008,
+              "name": "X",
+              "dev": 0,
+              "dev_out_total": 0,
+              "quality": "red"
+            },
+            {
+              "id": 1009,
+              "name": "Y",
+              "dev": 0,
+              "dev_out_total": 0,
+              "quality": "green"
+            },
+            {
+              "id": 1010,
+              "name": "Z",
+              "dev": 0,
+              "dev_out_total": 0,
+              "quality": "yellow"
+            },
             { "id": 1011, "name": "Diameter", "dev": 0, "dev_out_total": 0 },
-            { "id": 1012, "name": "X", "dev": 0, "dev_out_total": 0 },
-            { "id": 1013, "name": "Y", "dev": 0, "dev_out_total": 0 },
-            { "id": 1014, "name": "Z", "dev": 0, "dev_out_total": 0 },
-            { "id": 1015, "name": "Diameter", "dev": 0, "dev_out_total": 0 }
+            {
+              "id": 1012,
+              "name": "X",
+              "dev": 0,
+              "dev_out_total": 0,
+              "quality": "red"
+            },
+            {
+              "id": 1013,
+              "name": "Y",
+              "dev": 0,
+              "dev_out_total": 0,
+              "quality": "green"
+            },
+            {
+              "id": 1014,
+              "name": "Z",
+              "dev": 0,
+              "dev_out_total": 0,
+              "quality": "yellow"
+            },
+            {
+              "id": 1015,
+              "name": "Diameter",
+              "dev": 0,
+              "dev_out_total": 0,
+              "quality": "red"
+            }
           ],
           "quality": "green"
         },
@@ -31,10 +121,34 @@
           "id": 11,
           "name": "Feat A-2",
           "control": [
-            { "id": 1100, "name": "X", "dev": 0, "dev_out_total": 0 },
-            { "id": 1101, "name": "Y", "dev": 0, "dev_out_total": 0 },
-            { "id": 1102, "name": "Z", "dev": 0, "dev_out_total": 0 },
-            { "id": 1103, "name": "Diameter", "dev": 0, "dev_out_total": 0 }
+            {
+              "id": 1100,
+              "name": "X",
+              "dev": 0,
+              "dev_out_total": 0,
+              "quality": "green"
+            },
+            {
+              "id": 1101,
+              "name": "Y",
+              "dev": 0,
+              "dev_out_total": 0,
+              "quality": "yellow"
+            },
+            {
+              "id": 1102,
+              "name": "Z",
+              "dev": 0,
+              "dev_out_total": 0,
+              "quality": "red"
+            },
+            {
+              "id": 1103,
+              "name": "Diameter",
+              "dev": 0,
+              "dev_out_total": 0,
+              "quality": "green"
+            }
           ],
           "quality": "yellow"
         },
@@ -42,10 +156,34 @@
           "id": 12,
           "name": "Feat A-3",
           "control": [
-            { "id": 1200, "name": "X", "dev": 0, "dev_out_total": 0 },
-            { "id": 1201, "name": "Y", "dev": 0, "dev_out_total": 0 },
-            { "id": 1202, "name": "Z", "dev": 0, "dev_out_total": 0 },
-            { "id": 1203, "name": "Diameter", "dev": 0, "dev_out_total": 0 }
+            {
+              "id": 1200,
+              "name": "X",
+              "dev": 0,
+              "dev_out_total": 0,
+              "quality": "green"
+            },
+            {
+              "id": 1201,
+              "name": "Y",
+              "dev": 0,
+              "dev_out_total": 0,
+              "quality": "yellow"
+            },
+            {
+              "id": 1202,
+              "name": "Z",
+              "dev": 0,
+              "dev_out_total": 0,
+              "quality": "red"
+            },
+            {
+              "id": 1203,
+              "name": "Diameter",
+              "dev": 0,
+              "dev_out_total": 0,
+              "quality": "green"
+            }
           ],
           "quality": "red"
         }
@@ -59,14 +197,62 @@
           "id": 20,
           "name": "Feat B-1",
           "control": [
-            { "id": 2000, "name": "X", "dev": 0, "dev_out_total": 0 },
-            { "id": 2001, "name": "Y", "dev": 0, "dev_out_total": 0 },
-            { "id": 2002, "name": "Z", "dev": 0, "dev_out_total": 0 },
-            { "id": 2003, "name": "Diameter", "dev": 0, "dev_out_total": 0 },
-            { "id": 2004, "name": "X", "dev": 0, "dev_out_total": 0 },
-            { "id": 2005, "name": "Y", "dev": 0, "dev_out_total": 0 },
-            { "id": 2006, "name": "Z", "dev": 0, "dev_out_total": 0 },
-            { "id": 2007, "name": "Diameter", "dev": 0, "dev_out_total": 0 }
+            {
+              "id": 2000,
+              "name": "X",
+              "dev": 0,
+              "dev_out_total": 0,
+              "quality": "green"
+            },
+            {
+              "id": 2001,
+              "name": "Y",
+              "dev": 0,
+              "dev_out_total": 0,
+              "quality": "yellow"
+            },
+            {
+              "id": 2002,
+              "name": "Z",
+              "dev": 0,
+              "dev_out_total": 0,
+              "quality": "red"
+            },
+            {
+              "id": 2003,
+              "name": "Diameter",
+              "dev": 0,
+              "dev_out_total": 0,
+              "quality": "green"
+            },
+            {
+              "id": 2004,
+              "name": "X",
+              "dev": 0,
+              "dev_out_total": 0,
+              "quality": "yellow"
+            },
+            {
+              "id": 2005,
+              "name": "Y",
+              "dev": 0,
+              "dev_out_total": 0,
+              "quality": "red"
+            },
+            {
+              "id": 2006,
+              "name": "Z",
+              "dev": 0,
+              "dev_out_total": 0,
+              "quality": "green"
+            },
+            {
+              "id": 2007,
+              "name": "Diameter",
+              "dev": 0,
+              "dev_out_total": 0,
+              "quality": "yellow"
+            }
           ],
           "quality": "green"
         },
@@ -74,10 +260,34 @@
           "id": 21,
           "name": "Feat B-2",
           "control": [
-            { "id": 2100, "name": "X", "dev": 0, "dev_out_total": 0 },
-            { "id": 2101, "name": "Y", "dev": 0, "dev_out_total": 0 },
-            { "id": 2102, "name": "X", "dev": 0, "dev_out_total": 0 },
-            { "id": 2103, "name": "Diameter", "dev": 0, "dev_out_total": 0 }
+            {
+              "id": 2100,
+              "name": "X",
+              "dev": 0,
+              "dev_out_total": 0,
+              "quality": "green"
+            },
+            {
+              "id": 2101,
+              "name": "Y",
+              "dev": 0,
+              "dev_out_total": 0,
+              "quality": "yellow"
+            },
+            {
+              "id": 2102,
+              "name": "X",
+              "dev": 0,
+              "dev_out_total": 0,
+              "quality": "red"
+            },
+            {
+              "id": 2103,
+              "name": "Diameter",
+              "dev": 0,
+              "dev_out_total": 0,
+              "quality": "green"
+            }
           ],
           "quality": "yellow"
         }
