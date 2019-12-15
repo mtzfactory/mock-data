@@ -6,7 +6,7 @@
       "features": [
         {
           "id": 10,
-          "name": "Feat 1",
+          "name": "Feat A-1",
           "control": [
             { "id": 1000, "name": "X", "dev": 0, "dev_out_total": 0 },
             { "id": 1001, "name": "Y", "dev": 0, "dev_out_total": 0 },
@@ -29,7 +29,7 @@
         },
         {
           "id": 11,
-          "name": "Feat 2",
+          "name": "Feat A-2",
           "control": [
             { "id": 1100, "name": "X", "dev": 0, "dev_out_total": 0 },
             { "id": 1101, "name": "Y", "dev": 0, "dev_out_total": 0 },
@@ -40,7 +40,7 @@
         },
         {
           "id": 12,
-          "name": "Feat 3",
+          "name": "Feat A-3",
           "control": [
             { "id": 1200, "name": "X", "dev": 0, "dev_out_total": 0 },
             { "id": 1201, "name": "Y", "dev": 0, "dev_out_total": 0 },
@@ -57,7 +57,7 @@
       "features": [
         {
           "id": 20,
-          "name": "Feat 1",
+          "name": "Feat B-1",
           "control": [
             { "id": 2000, "name": "X", "dev": 0, "dev_out_total": 0 },
             { "id": 2001, "name": "Y", "dev": 0, "dev_out_total": 0 },
@@ -72,7 +72,7 @@
         },
         {
           "id": 21,
-          "name": "Feat 2",
+          "name": "Feat B-2",
           "control": [
             { "id": 2100, "name": "X", "dev": 0, "dev_out_total": 0 },
             { "id": 2101, "name": "Y", "dev": 0, "dev_out_total": 0 },
