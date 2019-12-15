@@ -1,6 +1,7 @@
 {
   "abb": [
     {
+      "id": 1,
       "name": "Piece A",
       "features": [
         {
@@ -46,6 +47,7 @@
       ]
     },
     {
+      "id": 2,
       "name": "Piece B",
       "features": [
         {
